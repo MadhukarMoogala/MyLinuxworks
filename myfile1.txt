@@ -1,2 +1,3 @@
 this is my first text file in Vim
 I'm modifying my text for Git commit
+Text edited in the new file
